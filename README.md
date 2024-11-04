@@ -4,6 +4,8 @@ I'm currently a medical student at the **Yale School of Medicine**.
 
 **In research**, I'm interested in data science (particularly genomics), and leveraging existing tools to shed light on cellular mechanisms. I am currently pursuing an MHS degree with the [Pattabiraman Lab](https://www.pattabiramanlab.com/).
 
+You can reach me at: [firstname] [dot] [lastname] [at] yale.edu
+
 ## Education
 - MD Candidate, Yale University School of Medicine (_May 2026_)
 - MHS Candidate, Yale University School of Medicine (_May 2026_)

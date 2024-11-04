@@ -1,6 +1,8 @@
-I'm currently a medical student at the Yale School of Medicine.
-_Clinically_, I'm interested in internal medicine and the power of longitudinal care. 
-_In research_, I'm interested in data science (particularly genomics), and leveraging existing tools to shed light on cellular mechanisms. 
+I'm currently a medical student at the **Yale School of Medicine**.
+
+**Clinically**, I'm interested in internal medicine and the power of longitudinal care. 
+
+**In research**, I'm interested in data science (particularly genomics), and leveraging existing tools to shed light on cellular mechanisms. 
 
 ## Education
 - MD Candidate, Yale University School of Medicine (_May 2026_)

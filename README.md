@@ -24,6 +24,7 @@ You can reach me at: [firstname] [dot] [lastname] [at] yale.edu
 ## Other Projects
 - When the [Summer Science Program](https://summerscience.org/) turned fully virtual in the summer of 2020, I developed a 4-part tutorial to teach the Biochemistry participants Python and equip them with the skills needed to code a rudimentary motif finder. [[github]](https://github.com/caihelen/python-tutorials)
 - I am a student producer on the Primary Care Pearls med-ed podcast. [[spotify]](https://open.spotify.com/show/6P76ikVKEaAgpB6QOV3vnZ) [[instagram]](https://www.instagram.com/pcpearls/?hl=en) [[press release]](https://medicine.yale.edu/news-article/yale-internal-medicine-presents-primary-care-pearls-podcast/)
+- For the past couple of years I have been an educator at Bug Fest, hosted by the Academy of Natural Sciences of Drexel University in Philadelphia. Come see me at [Bug Fest 2025!](https://ansp.org/programs-and-events/festivals/bug-fest/)
 
 ## Awards
 - I was awarded the James G. Hirsch Endowed Medical Student Research Fellowship to fund one year of research in pursuit of the MHS degree from the 2024-2025 academic year.

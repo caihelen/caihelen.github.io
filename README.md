@@ -13,7 +13,7 @@ You can reach me at: [firstname] [dot] [lastname] [at] yale.edu
 - B.S. Ecology and Evolutionary Biology, Yale College (_May 2020_)
 
 ## Previous Work
-- In collaboration with two YSM MD-PhD students and the Akiko Iwasaki Lab, I studied the impact of mild COVID infection in pregnant mice and their offspring [[github]](https://github.com/caihelen/covid-pregnancy)
+- In collaboration with two YSM MD-PhD students and the Akiko Iwasaki Lab, I studied the impact of mild COVID infection in pregnant mice and their offspring [[PNAS]](https://doi.org/10.1073/pnas.2518294123)
 - In consultation with Smita Krishnaswamy and the TAs of her Deep Learning course, I collaborated with two graduate students from the Yale School of the Environment (Tobias Muellers and Jennifer Gao) to develop a novel tool for molecular discovery in the application of generating new non-bioaccumulative pesticides. We presented our project at the inaugural [AI at Yale symposium](https://ai.yale.edu/symposium-2025).
 - During medical school, I worked with Lais Osmani in the Insoo Kang Lab at the Yale School of Medicine to describe a new monocyte subpopulation involved in the pathogenesis of SLE [[preprint]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5172473) I also contributed to projects studying CD8+ T-cells in lupus [[eBioMedicine]](https://pubmed.ncbi.nlm.nih.gov/40857939/) and MIF in inflammatory arthritis [[PNAS]](https://www.pnas.org/doi/10.1073/pnas.2509156123)
 - In work for my undergraduate senior thesis in Applied Mathematics, I worked with Thierry Emonet and Nirag Kadakia at Yale University on a project implemented in Python to develop algorithms to pick stereotyped behaviors out of trajectories of fruit flies responding to an odor.

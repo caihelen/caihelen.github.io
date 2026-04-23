@@ -1,30 +1,30 @@
-I'm currently in my last year as a medical student at the **Yale School of Medicine**.
+I'm starting my residency in internal medicine at **Thomas Jefferson University** in Philadelphia.
 
-**Clinically**, I'm interested in internal medicine and the power of longitudinal care. 
+**Clinically**, I'm interested in longitudinal care and caring for patients with autoinflammatory/autoimmune syndromes.
 
-**In research**, I'm interested in data science (particularly genomics), and leveraging existing tools to shed light on cellular mechanisms. I am currently pursuing an MHS degree with the [Pattabiraman Lab](https://www.pattabiramanlab.com/). 
+**In research**, I'm interested in data science (particularly RNA transcriptomics), and leveraging existing analysis tools to shed light on cellular mechanisms. 
 
 You can reach me at: [firstname] [dot] [lastname] [at] yale.edu
 
 ## Education
-- MD Candidate, Yale University School of Medicine (_May 2026_)
-- MHS Candidate, Yale University School of Medicine (_May 2026_)
+- M.D., Yale University School of Medicine (_May 2026_)
+- M.H.S., Yale University School of Medicine (_May 2026_) with [Pattabiraman Lab](https://www.pattabiramanlab.com/)
 - B.S. Applied Mathematics, Yale College (_May 2020_)
 - B.S. Ecology and Evolutionary Biology, Yale College (_May 2020_)
 
 ## Previous Work
 - In collaboration with two YSM MD-PhD students and the Akiko Iwasaki Lab, I studied the impact of mild COVID infection in pregnant mice and their offspring [[PNAS]](https://doi.org/10.1073/pnas.2518294123)
-- In consultation with Smita Krishnaswamy and the TAs of her Deep Learning course, I collaborated with two graduate students from the Yale School of the Environment (Tobias Muellers and Jennifer Gao) to develop a novel tool for molecular discovery in the application of generating new non-bioaccumulative pesticides. We presented our project at the inaugural [AI at Yale symposium](https://ai.yale.edu/symposium-2025).
+- In consultation with Smita Krishnaswamy and the TAs of her Deep Learning course (Spring 2025), I collaborated with two graduate students from the Yale School of the Environment (Tobias Muellers and Jennifer Gao) to develop a novel tool for molecular discovery in the application of generating new non-bioaccumulative pesticides. We presented our project at the inaugural [AI at Yale symposium](https://ai.yale.edu/symposium-2025).
 - During medical school, I worked with Lais Osmani in the Insoo Kang Lab at the Yale School of Medicine to describe a new monocyte subpopulation involved in the pathogenesis of SLE [[preprint]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5172473) I also contributed to projects studying CD8+ T-cells in lupus [[eBioMedicine]](https://pubmed.ncbi.nlm.nih.gov/40857939/) and MIF in inflammatory arthritis [[PNAS]](https://www.pnas.org/doi/10.1073/pnas.2509156123)
-- In work for my undergraduate senior thesis in Applied Mathematics, I worked with Thierry Emonet and Nirag Kadakia at Yale University on a project implemented in Python to develop algorithms to pick stereotyped behaviors out of trajectories of fruit flies responding to an odor.
-- In work for my undergraduate senior thesis in Ecology and Evolutionary Biology, I worked with Alvaro Sanchez and Chang-Yu Chang at Yale University on a project implemented in Python to determine the nature of how microbial communities come together and coalesce [[PNAS]](https://doi.org/10.1073/pnas.2111261119)
+- In work for my undergraduate senior thesis in Applied Mathematics (Spring 2020), I worked with Thierry Emonet and Nirag Kadakia at Yale University on a project implemented in Python to develop algorithms to pick stereotyped behaviors out of trajectories of fruit flies responding to an odor.
+- In work for my undergraduate senior thesis in Ecology and Evolutionary Biology (Spring 2020), I worked with Alvaro Sanchez and Chang-Yu Chang at Yale University on a project implemented in Python to determine the nature of how microbial communities come together and coalesce [[PNAS]](https://doi.org/10.1073/pnas.2111261119)
 - In _2018_, I worked with the Ana Širović and Camille Pagniello at the Scripps Institution of Oceanography to develop an image-processing machine learning pipeline, implemented in Matlab [[github]](https://github.com/cpagniel/FishOASIS/tree/master/post_processing/automation).
 - In _2017_, I worked with the Air Force Research Laboratories on a signal-processing project, implemented in Matlab.
 - In _2015_, I was a participant in the Astrophysics curriculum of the [[Summer Science Program]](https://summerscience.org/) at NMT, where I learned Python and wrote code to determine the orbit of a near-Earth asteroid.
 
 ## Other Projects
 - When the [Summer Science Program](https://summerscience.org/) turned fully virtual in the summer of 2020, I developed a 4-part tutorial to teach the Biochemistry participants Python and equip them with the skills needed to code a rudimentary motif finder. [[github]](https://github.com/caihelen/python-tutorials)
-- I am a student producer on the Primary Care Pearls med-ed podcast. [[spotify]](https://open.spotify.com/show/6P76ikVKEaAgpB6QOV3vnZ) [[instagram]](https://www.instagram.com/pcpearls/?hl=en) [[press release]](https://medicine.yale.edu/news-article/yale-internal-medicine-presents-primary-care-pearls-podcast/) [[JGIM study on impact on attitudes toward OUD]](https://pubmed.ncbi.nlm.nih.gov/41609933/)
+- I was a student producer on the Primary Care Pearls med-ed podcast, a project I worked on throughout my time at Yale Med. [[spotify]](https://open.spotify.com/show/6P76ikVKEaAgpB6QOV3vnZ) [[instagram]](https://www.instagram.com/pcpearls/?hl=en) [[press release]](https://medicine.yale.edu/news-article/yale-internal-medicine-presents-primary-care-pearls-podcast/) [[JGIM study on impact on attitudes toward OUD]](https://pubmed.ncbi.nlm.nih.gov/41609933/)
 - For the past couple of years I have been an educator at Bug Fest, hosted by the Academy of Natural Sciences of Drexel University in Philadelphia. Come see me at [Bug Fest 2026!](https://ansp.org/programs-and-events/festivals/bug-fest/)
 
 ## Awards

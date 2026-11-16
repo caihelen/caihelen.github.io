@@ -1,10 +1,10 @@
-I'm starting my residency in internal medicine at **Thomas Jefferson University** in Philadelphia.
+I'm starting my residency in internal medicine at **Thomas Jefferson University Hospital** in Philadelphia.
 
 **Clinically**, I'm interested in longitudinal care and caring for patients with autoinflammatory/autoimmune syndromes.
 
 **In research**, I'm interested in data science (particularly RNA transcriptomics), and leveraging existing analysis tools to shed light on cellular mechanisms. 
 
-You can reach me at: [firstname] [dot] [lastname] [at] yale.edu
+You can reach me at: [firstname] [dot] [lastname] [at] jefferson.edu
 
 ## Education
 - M.D., Yale University School of Medicine (_May 2026_)
